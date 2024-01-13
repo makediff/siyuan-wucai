@@ -1,7 +1,7 @@
 {
   "name": "siyuan-wucai",
   "author": "makediff",
-  "url": "https://github.com/siyuan-note/siyuan-wucai",
+  "url": "https://github.com/makediff/siyuan-wucai",
   "version": "24.1.13",
   "minAppVersion": "2.12.1",
   "backends": [
@@ -23,7 +23,7 @@
     "zh_CN": "五彩"
   },
   "description": {
-    "default": "Easily and automatically sync all your highlights to SiYuan.",
+    "default": "Easily and automatically sync all your highlights to SiYuan",
     "zh_CN": "同步五彩到思源"
   },
   "readme": {
