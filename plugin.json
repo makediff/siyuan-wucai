@@ -2,7 +2,7 @@
   "name": "siyuan-wucai",
   "author": "makediff",
   "url": "https://github.com/makediff/siyuan-wucai",
-  "version": "24.1.14",
+  "version": "24.1.15",
   "minAppVersion": "2.12.1",
   "backends": [
     "windows",
