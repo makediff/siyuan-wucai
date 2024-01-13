@@ -1,0 +1,11 @@
+.idea
+.venv
+.vscode
+.DS_Store
+*.log
+*.zip
+pnpm-lock.yaml
+node_modules/
+dev/
+dist/
+build/
