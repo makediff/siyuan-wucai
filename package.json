@@ -1,0 +1,37 @@
+{
+  "name": "siyuan-wucai",
+  "version": "24.1.13",
+  "type": "module",
+  "description": "",
+  "repository": "",
+  "homepage": "",
+  "author": "makediff",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite build --watch",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^2.0.3",
+    "@tsconfig/svelte": "^4.0.1",
+    "@types/node": "^20.2.0",
+    "siyuan": "0.8.4",
+    "svelte": "^3.57.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4",
+    "vite": "^4.3.7",
+    "vite-plugin-static-copy": "^0.15.0",
+    "vite-plugin-zip-pack": "^1.0.5"
+  },
+  "dependencies": {
+    "@siyuan-community/siyuan-sdk": "0.3.2",
+    "@types/nunjucks": "^3.2.6",
+    "axios": "^1.4.0",
+    "fast-glob": "^3.3.2",
+    "less": "4.2.0",
+    "minimist": "^1.2.8",
+    "moment": "^2.29.4",
+    "nunjucks": "^3.2.4",
+    "rollup-plugin-livereload": "^2.0.5"
+  }
+}

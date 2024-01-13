@@ -1,0 +1,49 @@
+{
+  "name": "siyuan-wucai",
+  "author": "makediff",
+  "url": "https://github.com/siyuan-note/siyuan-wucai",
+  "version": "24.1.13",
+  "minAppVersion": "2.12.1",
+  "backends": [
+    "windows",
+    "linux",
+    "darwin",
+    "ios",
+    "android"
+  ],
+  "frontends": [
+    "desktop",
+    "mobile",
+    "browser-desktop",
+    "browser-mobile",
+    "desktop-window"
+  ],
+  "displayName": {
+    "default": "WuCai Highlights",
+    "zh_CN": "五彩"
+  },
+  "description": {
+    "default": "Easily and automatically sync all your highlights to SiYuan.",
+    "zh_CN": "同步五彩到思源"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "openCollective": "",
+    "patreon": "",
+    "github": "",
+    "custom": [
+      "https://www.dotalk.cn/product/wucai"
+    ]
+  },
+  "keywords": [
+    "五彩",
+    "wucai",
+    "highlight",
+    "网页划线",
+    "网页高亮",
+    "高亮批注"
+  ]
+}
