@@ -1,6 +1,6 @@
 {
   "name": "siyuan-wucai",
-  "version": "24.1.16",
+  "version": "24.1.22",
   "type": "module",
   "description": "Easily and automatically sync all your highlights to SiYuan",
   "repository": "",
@@ -15,7 +15,7 @@
     "@sveltejs/vite-plugin-svelte": "^2.0.3",
     "@tsconfig/svelte": "^4.0.1",
     "@types/node": "^20.2.0",
-    "siyuan": "0.8.4",
+    "siyuan": "0.9.2",
     "svelte": "^3.57.0",
     "ts-node": "^10.9.1",
     "typescript": "^5.0.4",
