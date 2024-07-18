@@ -1,8 +1,8 @@
 {
   "name": "siyuan-wucai",
-  "version": "24.7.17",
+  "version": "24.7.18",
   "type": "module",
-  "description": "Easily and automatically sync all your highlights to SiYuan",
+  "description": "Sync all your highlights to SiYuan easily and automatically",
   "repository": "",
   "homepage": "https://www.dotalk.cn/product/wucai",
   "author": "makediff",

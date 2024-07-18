@@ -2,7 +2,7 @@
   "name": "siyuan-wucai",
   "author": "makediff",
   "url": "https://github.com/makediff/siyuan-wucai",
-  "version": "24.7.17",
+  "version": "24.7.18",
   "minAppVersion": "2.12.1",
   "backends": [
     "windows",
@@ -23,8 +23,8 @@
     "zh_CN": "五彩"
   },
   "description": {
-    "default": "Easily and automatically sync all your highlights to SiYuan",
-    "zh_CN": "非常方便的将网页划线高亮、页面笔记和剪藏同步到思源，来搭建属于自己的知识库"
+    "default": "Sync all your highlights to SiYuan easily and automatically s",
+    "zh_CN": "同步网页划线高亮、批注、笔记和剪藏到思源，搭建属于自己的知识库"
   },
   "readme": {
     "default": "README.md",
@@ -43,6 +43,9 @@
     "wucai",
     "highlight",
     "网页划线",
+    "网页笔记",
+    "网页批注",
+    "网页剪藏",
     "网页高亮",
     "高亮批注"
   ]
