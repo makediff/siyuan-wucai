@@ -2,7 +2,7 @@
   "name": "siyuan-wucai",
   "author": "makediff",
   "url": "https://github.com/makediff/siyuan-wucai",
-  "version": "24.10.18",
+  "version": "25.7.11",
   "minAppVersion": "2.12.1",
   "backends": [
     "windows",
@@ -21,11 +21,11 @@
   ],
   "displayName": {
     "default": "WuCai Highlights",
-    "zh_CN": "五彩"
+    "zh_CN": "\u4e94\u5f69"
   },
   "description": {
     "default": "Sync all your highlights to SiYuan easily and automatically",
-    "zh_CN": "同步网页划线高亮、批注、笔记和剪藏到思源，搭建属于自己的知识库"
+    "zh_CN": "\u540c\u6b65\u7f51\u9875\u5212\u7ebf\u9ad8\u4eae\u3001\u6279\u6ce8\u3001\u7b14\u8bb0\u548c\u526a\u85cf\u5230\u601d\u6e90\uff0c\u642d\u5efa\u5c5e\u4e8e\u81ea\u5df1\u7684\u77e5\u8bc6\u5e93"
   },
   "readme": {
     "default": "README.md",
@@ -40,14 +40,14 @@
     ]
   },
   "keywords": [
-    "五彩",
+    "\u4e94\u5f69",
     "wucai",
     "highlight",
-    "网页划线",
-    "网页笔记",
-    "网页批注",
-    "网页剪藏",
-    "网页高亮",
-    "高亮批注"
+    "\u7f51\u9875\u5212\u7ebf",
+    "\u7f51\u9875\u7b14\u8bb0",
+    "\u7f51\u9875\u6279\u6ce8",
+    "\u7f51\u9875\u526a\u85cf",
+    "\u7f51\u9875\u9ad8\u4eae",
+    "\u9ad8\u4eae\u6279\u6ce8"
   ]
 }

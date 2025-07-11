@@ -1,23 +1,22 @@
-# WuCai Highlights to SiYuan 📚
+# WuCai Siyuan Plugin
 
-This official plugin maintained by the [希果壳五彩](https://www.dotalk.cn) team enables you to easily and automatically export all your digital highlights to [SiYuan](https://b3log.org/siyuan/) .
+WuCai is a tool that allows you to highlight text, add annotations, and take notes on any web page.
 
-Note: This plugin requires a subscription with [希果壳五彩](https://www.dotalk.cn) — a paid service that makes it easy to aggregate and review all your reading data into one place.
+It supports the following features:
 
----
+- Full-text clipping for later reading.
+- WuCai Assistant (WeChat chat) to collect fragmented information. You can also forward official account articles to the assistant to clip them, or use it to quickly record ideas.
+- Support for multiple browsers, such as Chrome, Edge, Safari, Firefox, Lemur, Kiwi, Yujian, etc.
+- Synchronization across multiple browsers and devices.
+- Support for syncing data to Obsidian, Siyuan, Flomo, Workflowy, and Logseq.
+- API support and integration with uTools, popclip, and Quicker.
 
-## Features
+[Click here](https://doc.wucai.site/) to learn more.
 
-* **Continuous, automatic syncing** — Take a highlight to the highlight in your SiYuan notebook
+## Features of WuCai Siyuan Plugin
 
-## Usage
+With the WuCai Siyuan Plugin, you can easily sync your WuCai data to [Siyuan](https://b3log.org/siyuan/). Full-text clipping is also supported.
 
-* Install the WuCai Official plugin within SiYuan Marketplace
-* Enable the plugin
-* Connect the plugin to your WuCai account
-* Initiate the first sync
-* Thereafter, the plugin can be configured to sync automatically or manually
+## Issue Feedback
 
-## Support
-
-* Please see our [feedback](https://feedback.dotalk.cn/note/OlA9f2ef3ee.html) 🙂
+- [Provide feedback or request new features](https://feedback.dotalk.cn)
