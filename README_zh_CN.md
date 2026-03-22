@@ -8,7 +8,7 @@
 - 支持五彩小助手（微信聊天），来收集碎片化信息，还可转发公众号文章给小助手来剪藏文章，也可以用来快速记录想法。
 - 支持多种浏览器，如 Chrome、Edge、Safari、Firefox、狐猴、kiwi、雨见 等。
 - 多浏览器、多终端同步。
-- 支持将数据同步到 Obsidian、思源、Flomo 浮墨、Workflowy、Logseq。
+- 支持将数据同步到 Obsidian、思源、Flomo 浮墨、Logseq。
 - 支持 API ，已经和 uTools、popclip、Quicker 做了集成。
 
 [点击这里](https://doc.wucai.site/)，了解更多。
